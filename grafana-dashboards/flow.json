@@ -23,7 +23,7 @@
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
   "id": 27,
-  "iteration": 1652776535005,
+  "iteration": 1652777667034,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -110,7 +110,7 @@
           "exemplar": true,
           "expr": "jina_receiving_request_seconds_sum / jina_receiving_request_seconds_count",
           "interval": "",
-          "legendFormat": "",
+          "legendFormat": "{{runtime_name}}",
           "refId": "A"
         }
       ],
