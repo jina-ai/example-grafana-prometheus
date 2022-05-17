@@ -22,8 +22,8 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 3,
-  "iteration": 1652184600221,
+  "id": 27,
+  "iteration": 1652776535005,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -165,7 +165,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "8.4.4",
+      "pluginVersion": "8.4.5",
       "targets": [
         {
           "datasource": {
@@ -215,10 +215,6 @@
               {
                 "color": "green",
                 "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
               }
             ]
           }
@@ -246,7 +242,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "8.4.4",
+      "pluginVersion": "8.4.5",
       "targets": [
         {
           "datasource": {
@@ -313,7 +309,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "8.4.4",
+      "pluginVersion": "8.4.5",
       "targets": [
         {
           "datasource": {
@@ -575,7 +571,7 @@
       },
       {
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "Prometheus",
           "value": "Prometheus"
         },
@@ -601,6 +597,6 @@
   "timezone": "",
   "title": "Flow monitoring",
   "uid": "e_4RtOlnz",
-  "version": 28,
+  "version": 2,
   "weekStart": ""
 }
